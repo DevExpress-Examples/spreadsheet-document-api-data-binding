@@ -20,7 +20,7 @@ Data binding error results in the [WorksheetDataBinding.Error](https://docs.de
 
 ## Files to Review
 
-* [Program.cs](./CS/SpreadsheetApiDataBinding/Program.cs) (VB: [Program.vb](./VB/DataBindingToSpreadsheetApiDataBindingListExample/Program.vb))
+* [Program.cs](./CS/SpreadsheetApiDataBinding/Program.cs) (VB: [Program.vb](./VB/SpreadsheetApiDataBinding/Program.vb))
 * [MyConverter.cs](./CS/SpreadsheetApiDataBinding/MyConverter.cs) (VB: [MyConverter.vb](./VB/SpreadsheetApiDataBinding/MyConverter.vb))
 * [WeatherReport.cs](./CS/SpreadsheetApiDataBinding/WeatherReport.cs) (VB: [WeatherReport.vb](./VB/SpreadsheetApiDataBinding/WeatherReport.vb))
 
