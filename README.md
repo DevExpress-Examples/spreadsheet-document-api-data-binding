@@ -28,7 +28,7 @@ Data binding error results in the [WorksheetDataBinding.Error](https://docs.de
 
 * [Spreadsheet Data Binding](https://docs.devexpress.com/OfficeFileAPI/118785/spreadsheet-document-api/data-binding)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=spreadsheet-document-api-data-binding&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=spreadsheet-document-api-data-binding&~~~was_helpful=no)
 
